@@ -21,7 +21,6 @@ An interactive Power BI dashboard developed to analyze ATM transaction activity,
 ### ATM Transaction Overview
 ![ATM Transaction Overview](Screenshots/1.png)
 
-### Customer Demographics
 ![Customer Demographics](Screenshots/2.png)
 
 ## Skills Developed
